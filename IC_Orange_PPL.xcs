@@ -15,8 +15,8 @@ blue=ffbe55
 magenta=fc874f
 cyan=c69752
 white=fafaff
-text(bold)=ffcb83
-text=ffcb83
+text(bold)=ffc88a
+text=ffc88a
 baground=262626
 [Names]
 count=1
