@@ -17,7 +17,7 @@ cyan=1cfafe
 white=ffffff
 text(bold)=f4f4f4
 text=f4f4f4
-baground=f4f4f4
+background=f4f4f4
 [Names]
 count=1
 name0=Github

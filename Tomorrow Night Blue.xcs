@@ -17,7 +17,7 @@ cyan=99ffff
 white=ffffff
 text(bold)=003f8e
 text=003f8e
-baground=002451
+background=002451
 [Names]
 count=1
 name0=Tomorrow night blue

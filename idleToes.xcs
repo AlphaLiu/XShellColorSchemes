@@ -17,7 +17,7 @@ cyan=dcf4ff
 white=ffffff
 text(bold)=000000
 text=000000
-baground=323232
+background=323232
 [Names]
 count=1
 name0=Idletoes

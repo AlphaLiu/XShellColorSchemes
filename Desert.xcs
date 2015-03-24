@@ -17,7 +17,7 @@ cyan=ffd700
 white=ffffff
 text(bold)=000000
 text=000000
-baground=333333
+background=333333
 [Names]
 count=1
 name0=Desert

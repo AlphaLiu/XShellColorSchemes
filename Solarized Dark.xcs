@@ -17,7 +17,7 @@ cyan=819090
 white=fcf4dc
 text(bold)=002831
 text=002831
-baground=001e27
+background=001e27
 [Names]
 count=1
 name0=Solarized dark

@@ -17,7 +17,7 @@ cyan=67fff0
 white=ffffff
 text(bold)=ff0018
 text=ff0018
-baground=0e1019
+background=0e1019
 [Names]
 count=1
 name0=Argonaut

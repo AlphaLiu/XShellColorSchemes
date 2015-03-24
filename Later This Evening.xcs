@@ -17,7 +17,7 @@ cyan=5fc0ae
 white=c1c2c2
 text(bold)=959595
 text=959595
-baground=222222
+background=222222
 [Names]
 count=1
 name0=Later this evening

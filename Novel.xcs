@@ -17,7 +17,7 @@ cyan=0087cc
 white=ffffff
 text(bold)=000000
 text=000000
-baground=dfdbc3
+background=dfdbc3
 [Names]
 count=1
 name0=Novel

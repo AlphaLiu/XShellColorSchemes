@@ -17,7 +17,7 @@ cyan=3f94a8
 white=ebedf2
 text(bold)=c4c5b5
 text=c4c5b5
-baground=1c1e22
+background=1c1e22
 [Names]
 count=1
 name0=Neutron

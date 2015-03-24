@@ -17,7 +17,7 @@ cyan=00e5e5
 white=e5e5e5
 text(bold)=000000
 text=000000
-baground=ffffff
+background=ffffff
 [Names]
 count=1
 name0=Terminal basic

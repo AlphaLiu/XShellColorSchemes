@@ -17,7 +17,7 @@ cyan=6096bf
 white=c0c0c0
 text(bold)=000000
 text=000000
-baground=101010
+background=101010
 [Names]
 count=1
 name0=Wryan

@@ -17,7 +17,7 @@ cyan=3e999f
 white=ffffff
 text(bold)=ffffff
 text=ffffff
-baground=ffffff
+background=ffffff
 [Names]
 count=1
 name0=Spring

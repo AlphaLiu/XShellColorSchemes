@@ -17,7 +17,7 @@ cyan=8cdfe0
 white=e0e0e0
 text(bold)=323232
 text=323232
-baground=222222
+background=222222
 [Names]
 count=1
 name0=Slate

@@ -17,7 +17,7 @@ cyan=bddbdb
 white=ffffff
 text(bold)=0d1926
 text=0d1926
-baground=0d1926
+background=0d1926
 [Names]
 count=1
 name0=Blazer

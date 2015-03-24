@@ -17,7 +17,7 @@ cyan=85befd
 white=e0e0e0
 text(bold)=151515
 text=151515
-baground=161719
+background=161719
 [Names]
 count=1
 name0=Atom

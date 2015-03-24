@@ -17,7 +17,7 @@ cyan=ff919d
 white=e4838d
 text(bold)=ff00fe
 text=ff00fe
-baground=1f1726
+background=1f1726
 [Names]
 count=1
 name0=Wildcherry

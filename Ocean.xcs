@@ -17,7 +17,7 @@ cyan=00e5e5
 white=e5e5e5
 text(bold)=ffffff
 text=ffffff
-baground=224fbc
+background=224fbc
 [Names]
 count=1
 name0=Ocean

@@ -17,7 +17,7 @@ cyan=7ac4cc
 white=bccccc
 text(bold)=000000
 text=000000
-baground=303030
+background=303030
 [Names]
 count=1
 name0=Liquidcarbon

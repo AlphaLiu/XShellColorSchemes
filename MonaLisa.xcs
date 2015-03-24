@@ -17,7 +17,7 @@ cyan=8acd8f
 white=ffe598
 text(bold)=120b0d
 text=120b0d
-baground=120b0d
+background=120b0d
 [Names]
 count=1
 name0=Monalisa

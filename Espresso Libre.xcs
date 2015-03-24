@@ -17,7 +17,7 @@ cyan=34e2e2
 white=eeeeec
 text(bold)=000000
 text=000000
-baground=2a211c
+background=2a211c
 [Names]
 count=1
 name0=Espresso libre

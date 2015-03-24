@@ -17,7 +17,7 @@ cyan=23cfd5
 white=f8f8f2
 text(bold)=000000
 text=000000
-baground=1b1d1e
+background=1b1d1e
 [Names]
 count=1
 name0=Thayer bright

@@ -17,7 +17,7 @@ cyan=f5bfd7
 white=fefbea
 text(bold)=010101
 text=010101
-baground=010101
+background=010101
 [Names]
 count=1
 name0=Harper

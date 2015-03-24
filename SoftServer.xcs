@@ -17,7 +17,7 @@ cyan=64e39c
 white=d2e0de
 text(bold)=000000
 text=000000
-baground=242626
+background=242626
 [Names]
 count=1
 name0=Softserver

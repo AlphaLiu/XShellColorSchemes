@@ -17,7 +17,7 @@ cyan=4fbce6
 white=8c735b
 text(bold)=1b1c1d
 text=1b1c1d
-baground=1b1c1d
+background=1b1c1d
 [Names]
 count=1
 name0=Frontenddelight

@@ -17,7 +17,7 @@ cyan=b0c4de
 white=ddccbb
 text(bold)=000000
 text=000000
-baground=1c1c1c
+background=1c1c1c
 [Names]
 count=1
 name0=Arthur

@@ -17,7 +17,7 @@ cyan=b7dfdd
 white=ffffff
 text(bold)=762423
 text=762423
-baground=762423
+background=762423
 [Names]
 count=1
 name0=Red alert

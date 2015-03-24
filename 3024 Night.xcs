@@ -17,7 +17,7 @@ cyan=cdab53
 white=f7f7f7
 text(bold)=090300
 text=090300
-baground=090300
+background=090300
 [Names]
 count=1
 name0=3024 night

@@ -17,7 +17,7 @@ cyan=ccccff
 white=ffffff
 text(bold)=ffffff
 text=ffffff
-baground=000000
+background=000000
 [Names]
 count=1
 name0=Symfonic

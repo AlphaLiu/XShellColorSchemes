@@ -17,7 +17,7 @@ cyan=8a989b
 white=ffffd4
 text(bold)=000000
 text=000000
-baground=141414
+background=141414
 [Names]
 count=1
 name0=Twilight

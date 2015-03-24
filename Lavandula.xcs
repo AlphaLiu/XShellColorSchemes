@@ -17,7 +17,7 @@ cyan=9ad4e0
 white=8c91fa
 text(bold)=050014
 text=050014
-baground=050014
+background=050014
 [Names]
 count=1
 name0=Lavandula

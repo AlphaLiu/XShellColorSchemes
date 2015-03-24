@@ -17,7 +17,7 @@ cyan=00ffff
 white=e5e5e5
 text(bold)=000000
 text=000000
-baground=000000
+background=000000
 [Names]
 count=1
 name0=Vibrantink

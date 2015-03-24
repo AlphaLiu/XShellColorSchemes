@@ -17,7 +17,7 @@ cyan=35b387
 white=e7eced
 text(bold)=ffffff
 text=ffffff
-baground=002240
+background=002240
 [Names]
 count=1
 name0=Flat

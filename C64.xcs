@@ -17,7 +17,7 @@ cyan=67b6bd
 white=f7f7f7
 text(bold)=40318d
 text=40318d
-baground=40318d
+background=40318d
 [Names]
 count=1
 name0=C64

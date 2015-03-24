@@ -17,7 +17,7 @@ cyan=55ffff
 white=ffffff
 text(bold)=cdcdcd
 text=cdcdcd
-baground=283033
+background=283033
 [Names]
 count=1
 name0=Obsidian
