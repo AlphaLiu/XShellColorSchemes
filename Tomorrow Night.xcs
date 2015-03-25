@@ -15,9 +15,9 @@ blue=81a2be
 magenta=b294bb
 cyan=8abeb7
 white=ffffff
-text(bold)=1d1f21
-text=1d1f21
+text(bold)=c5c8c6
+text=c5c8c6
 background=1d1f21
 [Names]
 count=1
-name0=Tomorrow night
+name0=Tomorrow Night

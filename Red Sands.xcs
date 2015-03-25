@@ -15,9 +15,9 @@ blue=0072ae
 magenta=ff55ff
 cyan=55ffff
 white=ffffff
-text(bold)=000000
-text=000000
+text(bold)=d7c9a7
+text=d7c9a7
 background=7a251e
 [Names]
 count=1
-name0=Red sands
+name0=Red Sands

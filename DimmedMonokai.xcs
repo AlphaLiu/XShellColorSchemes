@@ -15,9 +15,9 @@ blue=186de3
 magenta=fb0067
 cyan=2e706d
 white=fdffb9
-text(bold)=171717
-text=171717
+text(bold)=b9bcba
+text=b9bcba
 background=1f1f1f
 [Names]
 count=1
-name0=Dimmedmonokai
+name0=DimmedMonokai

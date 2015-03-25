@@ -15,8 +15,8 @@ blue=387cd3
 magenta=957bbe
 cyan=3d97e2
 white=bababa
-text(bold)=ffffff
-text=ffffff
+text(bold)=bababa
+text=bababa
 background=222324
 [Names]
 count=1

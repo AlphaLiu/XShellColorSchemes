@@ -15,9 +15,9 @@ blue=7cc9cf
 magenta=d26349
 cyan=e6a96b
 white=ffeaa3
-text(bold)=000000
-text=000000
+text(bold)=dec165
+text=dec165
 background=251200
 [Names]
 count=1
-name0=Funforrest
+name0=FunForrest

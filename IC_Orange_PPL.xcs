@@ -15,9 +15,9 @@ blue=ffbe55
 magenta=fc874f
 cyan=c69752
 white=fafaff
-text(bold)=ffc88a
-text=ffc88a
+text(bold)=ffcb83
+text=ffcb83
 background=262626
 [Names]
 count=1
-name0=Ic_orange_ppl
+name0=IC_Orange_PPL

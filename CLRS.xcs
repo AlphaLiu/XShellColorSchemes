@@ -15,9 +15,9 @@ blue=1670ff
 magenta=e900b0
 cyan=3ad5ce
 white=eeeeec
-text(bold)=ffffff
-text=ffffff
+text(bold)=262626
+text=262626
 background=ffffff
 [Names]
 count=1
-name0=Clrs
+name0=CLRS

@@ -15,9 +15,9 @@ blue=0000ff
 magenta=e500e5
 cyan=00e5e5
 white=e5e5e5
-text(bold)=ff0018
-text=ff0018
+text(bold)=84c138
+text=84c138
 background=100b05
 [Names]
 count=1
-name0=Hipster green
+name0=Hipster Green

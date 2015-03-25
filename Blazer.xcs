@@ -15,8 +15,8 @@ blue=bdbddb
 magenta=dbbddb
 cyan=bddbdb
 white=ffffff
-text(bold)=0d1926
-text=0d1926
+text(bold)=d9e6f2
+text=d9e6f2
 background=0d1926
 [Names]
 count=1

@@ -15,9 +15,9 @@ blue=43a8ed
 magenta=ff818a
 cyan=34e2e2
 white=eeeeec
-text(bold)=000000
-text=000000
+text(bold)=b8a898
+text=b8a898
 background=2a211c
 [Names]
 count=1
-name0=Espresso libre
+name0=Espresso Libre

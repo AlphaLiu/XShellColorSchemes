@@ -15,9 +15,9 @@ blue=0000ff
 magenta=e500e5
 cyan=00e5e5
 white=e5e5e5
-text(bold)=ff0018
-text=ff0018
+text(bold)=ffcc2f
+text=ffcc2f
 background=2c1d16
 [Names]
 count=1
-name0=Jackie brown
+name0=Jackie Brown

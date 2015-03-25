@@ -1,4 +1,4 @@
-[Dark Background]
+[DarkBackground]
 black(bold)=000000
 red(bold)=bb0000
 green(bold)=00bb00
@@ -20,4 +20,4 @@ text=ffffff
 background=000000
 [Names]
 count=1
-name0=Dark background
+name0=DarkBackground

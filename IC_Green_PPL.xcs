@@ -15,9 +15,9 @@ blue=72ffb5
 magenta=50ff3e
 cyan=22ff71
 white=daefd0
-text(bold)=1f1f1f
-text=1f1f1f
+text(bold)=d9efd3
+text=d9efd3
 background=3a3d3f
 [Names]
 count=1
-name0=Ic_green_ppl
+name0=IC_Green_PPL

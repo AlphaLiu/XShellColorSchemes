@@ -1,4 +1,4 @@
-[Tango Dark]
+[TangoDark]
 black(bold)=000000
 red(bold)=cc0000
 green(bold)=4e9a06
@@ -20,4 +20,4 @@ text=000000
 background=000000
 [Names]
 count=1
-name0=Tango dark
+name0=TangoDark

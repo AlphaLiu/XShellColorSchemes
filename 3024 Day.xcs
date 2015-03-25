@@ -15,9 +15,9 @@ blue=807d7c
 magenta=d6d5d4
 cyan=cdab53
 white=f7f7f7
-text(bold)=f7f7f7
-text=f7f7f7
+text(bold)=4a4543
+text=4a4543
 background=f7f7f7
 [Names]
 count=1
-name0=3024 day
+name0=3024 Day

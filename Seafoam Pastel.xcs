@@ -15,9 +15,9 @@ blue=7ac3cf
 magenta=d6b2a1
 cyan=ade0e0
 white=e0e0e0
-text(bold)=323232
-text=323232
+text(bold)=d4e7d4
+text=d4e7d4
 background=243435
 [Names]
 count=1
-name0=Seafoam pastel
+name0=Seafoam Pastel

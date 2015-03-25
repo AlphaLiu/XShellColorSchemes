@@ -15,9 +15,9 @@ blue=06b6ef
 magenta=815ba4
 cyan=5bc4bf
 white=e7e9db
-text(bold)=2f1e2e
-text=2f1e2e
+text(bold)=a39e9b
+text=a39e9b
 background=2f1e2e
 [Names]
 count=1
-name0=Parasio dark
+name0=Parasio Dark

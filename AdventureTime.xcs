@@ -15,9 +15,9 @@ blue=1997c6
 magenta=9b5953
 cyan=c8faf4
 white=f6f5fb
-text(bold)=08080a
-text=08080a
+text(bold)=f8dcc0
+text=f8dcc0
 background=1f1d45
 [Names]
 count=1
-name0=Adventuretime
+name0=AdventureTime

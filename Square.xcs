@@ -15,8 +15,8 @@ blue=b6defb
 magenta=ad7fa8
 cyan=d7d9fc
 white=e2e2e2
-text(bold)=000000
-text=000000
+text(bold)=acacab
+text=acacab
 background=1a1a1a
 [Names]
 count=1

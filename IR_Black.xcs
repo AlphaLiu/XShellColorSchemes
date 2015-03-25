@@ -15,9 +15,9 @@ blue=b5dcff
 magenta=fb9cfe
 cyan=e0e0fe
 white=ffffff
-text(bold)=ffffff
-text=ffffff
+text(bold)=f1f1f1
+text=f1f1f1
 background=000000
 [Names]
 count=1
-name0=Ir_black
+name0=IR_Black

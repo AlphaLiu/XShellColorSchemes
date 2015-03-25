@@ -15,9 +15,9 @@ blue=6699cc
 magenta=cc99cc
 cyan=66cccc
 white=ffffff
-text(bold)=2d2d2d
-text=2d2d2d
+text(bold)=cccccc
+text=cccccc
 background=2d2d2d
 [Names]
 count=1
-name0=Tomorrow night eighties
+name0=Tomorrow Night Eighties
